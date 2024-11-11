@@ -4,7 +4,7 @@ function Cards() {
   return (
     <div id="cards-container">
     <div className="container">
-      <h2 id="wellfit" className="type-large-fat xl:type-56-bol text-center lg:pt-56 xl:pt-64 mb-32 xl:mb-64">What is WellFit?</h2>
+      <h2 id="wellfit" className="type-large-fat xl:type-56-bol text-center lg:pt-56 xl:pt-64 mb-32 xl:mb-64">What is BigFit?</h2>
       <div className="row row-cols-1 row-cols-md-2 g-4 text-center my-64">
         <div className="col">
           <div className="card border-0">

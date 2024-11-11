@@ -10,7 +10,7 @@ function Fitness() {
               </p>
             </div>
             <div className="col-md-6 text-center">
-              <img src="../images/undraw_Personal_trainer_re_cnua.png" className="img-fluid d-block mx-auto" alt="" />
+              <img src="../images/Couple.png" className="img-fluid d-block w-100 mx-auto" alt="" />
             </div>
           </div>
         </div>

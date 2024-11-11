@@ -10,7 +10,7 @@ function FAQ() {
           <Accordion.Item eventKey="0">
             <Accordion.Header className="arrow">What is the purpose of this app?</Accordion.Header>
             <Accordion.Body>
-              WellFit mission is designed to help busy moms achieve their weight loss goals by tracking their daily calorie intake and exercise routine.
+              BigFit mission is designed to help busy moms achieve their weight loss goals by tracking their daily calorie intake and exercise routine.
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="1">
@@ -20,21 +20,21 @@ function FAQ() {
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="2">
-            <Accordion.Header>Can I track my calorie intake and exercise routine on the WellFit app?</Accordion.Header>
+            <Accordion.Header>Can I track my calorie intake and exercise routine on the BigFit app?</Accordion.Header>
             <Accordion.Body>
-              Absolutely! WellFit has a built-in tracking feature that allows you to log your daily meals and workouts. You can record your own calorie and fitness achievements, and the app also provide you with workout video-recommendations to help you stay on track.
+              Absolutely! BigFit has a built-in tracking feature that allows you to log your daily meals and workouts. You can record your own calorie and fitness achievements, and the app also provide you with workout video-recommendations to help you stay on track.
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="3">
-            <Accordion.Header>Can I use WellFit on my mobile device?</Accordion.Header>
+            <Accordion.Header>Can I use BigFit on my mobile device?</Accordion.Header>
             <Accordion.Body>
-              Yes, WellFit is designed to work seamlessly on both desktop and mobile devices. Simply access the web app from your smartphone or tablet browser.
+              Yes, BigFit is designed to work seamlessly on both desktop and mobile devices. Simply access the web app from your smartphone or tablet browser.
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="4">
-            <Accordion.Header>How can I get support if I have a problem with WellFit?</Accordion.Header>
+            <Accordion.Header>How can I get support if I have a problem with BigFit?</Accordion.Header>
             <Accordion.Body>
-              If you have any issues or questions about using WellFit, our customer support team is always here to help. You can contact us via email at support@wellfit.com. We strive to respond to all inquiries within 24 hours.
+              If you have any issues or questions about using BigFit, our customer support team is always here to help. You can contact us via email at support@Bigfit.com. We strive to respond to all inquiries within 24 hours.
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="5">
