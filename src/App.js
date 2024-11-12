@@ -21,7 +21,7 @@ function App() {
       <Jumbotron />
       <Cards />
       <div className="container" id="trackers">
-        
+        <div id="component1"> <Nutritions /></div>
         <div id="component2"> <Bmr /></div>
       </div>
       <Fitness />
